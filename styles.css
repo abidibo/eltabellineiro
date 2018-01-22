@@ -1,0 +1,40 @@
+body {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+h1 {
+    font-family: 'Barrio', cursive;
+}
+
+.results {
+    padding: 20px;
+    background: #f7f7f7;
+    border: 1px solid #eee;
+}
+
+.number-result {
+    display: inline-block;
+    margin: 20px 0;
+    font-size: 37px;
+    background: #fff;
+    color: #000;
+    border-radius: 50%;
+    padding: 20px;
+    width: 90px;
+    height: 90px;
+    padding-top: 15px;
+    border: 1px solid #aaa;
+    text-align: center;
+}
+
+.textual-result {
+    font-size: 34px;
+    font-family: 'Barrio', cursive;
+    color: #ff6600;
+}
+
+.timer span {
+    font-size: 34px;
+    color: #ff9900;
+}
